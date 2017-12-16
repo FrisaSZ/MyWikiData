@@ -5,4 +5,4 @@ toc: yes
 categories:
 ...
 
-# [新建页面](/newfolder/newpage)
+# [新建页面](/2017-12/16-01)
