@@ -1,5 +1,6 @@
 ---
 format: Markdown
+title: 首页
 ...
 
 # Welcome to Gitit!
