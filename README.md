@@ -1,16 +1,4 @@
----
-format: Markdown
-...
+# README
 
-# Welcome to Gitit!
-
-This is the front page of your new gitit wiki.  You can edit this
-page by clicking on the "edit" tab at the top of the screen.
-For instructions on how to make a link to another wiki page, see [the
-Help page](Help#wiki-links). To create a new wiki page, just create a
-link to it and follow the link.
-
-Help is always available through the "Help" link in the sidebar.
-More details on installing and configurating gitit are available
-in the [Gitit User’s Guide]().
+个人wiki元数据仓库，使用[gitit-bigger](https://github.com/FrisaSZ/gitit-bigger)工具
 
