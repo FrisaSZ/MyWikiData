@@ -204,6 +204,6 @@ import numpy as np
 import tensorflow as tf
 print('test')
 ```
-[点击跳转](#jump)
-一个内部跳转[jump](#Jump Tar)
+
+一个内部跳转[jump](#Jump)
 
