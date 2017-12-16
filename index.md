@@ -3,7 +3,7 @@ format: Markdown
 title: 首页
 ...
 
-# WelcometoGitit
+# Welcome to Gitit
 
 This is the front page of your new gitit wiki.  You can edit this
 page by clicking on the "edit" tab at the top of the screen.
@@ -205,5 +205,5 @@ import tensorflow as tf
 print('test')
 ```
 
-一个内部跳转[jump](#welcometogitit)
+一个内部跳转[jump](#welcome to gitit)
 
